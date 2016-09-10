@@ -1,5 +1,5 @@
 //this is for range update and single query
-public class BinaryIndexedTree {
+public class BinaryIndexTreeRangeUpdate {
     static int[] record;
     static int[] num;
     public static void main(String[] args) {
